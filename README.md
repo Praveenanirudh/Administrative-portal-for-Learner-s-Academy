@@ -26,7 +26,7 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 
 •	CSS: to format the contents.
 
-•	phpMyAdmin: to administrate and manage the database manually.
+•	MySQL WorkBench: to administrate and manage the database manually.
 
 •	Eclipse: to write and run the code.
 
@@ -65,17 +65,19 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 •	To login you must enter admin for both username and password.
 
 Screenshots:
+![Login](https://user-images.githubusercontent.com/93002544/154227544-114fa48d-8e68-4294-91ab-3d29b568f53d.png)
 
-![image](https://user-images.githubusercontent.com/64940728/120771774-47dd9600-c528-11eb-86c8-ee8a1b133a23.png)
+![students](https://user-images.githubusercontent.com/93002544/154227772-8346f4d9-0fb7-45ff-88f0-0a3247e1aba0.png)
 
-![image](https://user-images.githubusercontent.com/64940728/120771806-4e6c0d80-c528-11eb-97bb-8abe14d8560c.png)
+![subjects](https://user-images.githubusercontent.com/93002544/154228052-d233a295-3ed7-419e-812c-eed836d94036.png)
 
-![image](https://user-images.githubusercontent.com/64940728/120771819-51ff9480-c528-11eb-98fe-39b7767b8de6.png)
+![teachers](https://user-images.githubusercontent.com/93002544/154228263-b25d2284-3b10-4376-bd73-0dde5aa5fc54.png)
 
-![image](https://user-images.githubusercontent.com/64940728/120771833-54fa8500-c528-11eb-9291-2ab6c81528f3.png)
+![classes](https://user-images.githubusercontent.com/93002544/154228401-20fbfc9c-e211-4d13-a20c-bcf8aa69b080.png)
 
-![image](https://user-images.githubusercontent.com/64940728/120771849-588e0c00-c528-11eb-89d0-fbc960d1562e.png)
+![corejava](https://user-images.githubusercontent.com/93002544/154228561-89e98df0-3d81-4b69-8567-9af0a2542f09.png)
 
-![image](https://user-images.githubusercontent.com/64940728/120771867-5c219300-c528-11eb-8aed-e8d137640817.png)
+![FSD](https://user-images.githubusercontent.com/93002544/154228679-d43fb638-2ea2-4178-a2d9-685b2bf802a1.png)
+
 
 
